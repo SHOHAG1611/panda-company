@@ -1,0 +1,16 @@
+.panda-info{
+    background-color: rgb(252, 234, 232);
+}
+.item-info{
+    background-color: brown;
+}
+.categories img{
+    width: 100px;
+}
+.panda-buy-now{
+    background-color: rgb(226, 23, 118);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px ;
+    border: none;
+}
